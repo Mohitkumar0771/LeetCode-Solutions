@@ -12,10 +12,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
+| [0148-sort-list](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
+| [0148-sort-list](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -24,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0148-sort-list](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,4 +57,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
