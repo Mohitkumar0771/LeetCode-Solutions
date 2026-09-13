@@ -8,11 +8,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
+| [0189-rotate-array](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0148-sort-list](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
+| [0189-rotate-array](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
+| [0189-rotate-array](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
