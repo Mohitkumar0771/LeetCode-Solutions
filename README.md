@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0189-rotate-array](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Depth-First Search
@@ -66,14 +68,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0148-sort-list](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
