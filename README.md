@@ -65,12 +65,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,8 +97,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0704-binary-search](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 <!---LeetCode Topics End-->
