@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0189-rotate-array](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
+| [0344-reverse-string](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,4 +89,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
