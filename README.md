@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0654-maximum-binary-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0655-print-binary-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0655-print-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0654-maximum-binary-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0655-print-binary-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0655-print-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -107,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0704-binary-search](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## String
