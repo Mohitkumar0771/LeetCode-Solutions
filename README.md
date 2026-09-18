@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0147-insertion-sort-list](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0328-odd-even-linked-list](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
