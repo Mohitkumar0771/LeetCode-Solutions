@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0143-reorder-list](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0394-decode-string](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0394-decode-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0143-reorder-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0394-decode-string](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0394-decode-string/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
+| [0394-decode-string](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0394-decode-string/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
