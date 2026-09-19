@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0189-rotate-array](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [1154-day-of-the-year](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/1154-day-of-the-year/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0394-decode-string](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0394-decode-string/) | Medium |
+| [1154-day-of-the-year](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/1154-day-of-the-year/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
