@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0310-minimum-height-trees](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0310-minimum-height-trees/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0655-print-binary-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0655-print-binary-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0310-minimum-height-trees](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0310-minimum-height-trees/) | Medium |
 | [0655-print-binary-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0655-print-binary-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 ## Monotonic Stack
@@ -137,4 +139,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0654-maximum-binary-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0310-minimum-height-trees](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0310-minimum-height-trees/) | Medium |
+## Topological Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0310-minimum-height-trees](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0310-minimum-height-trees/) | Medium |
 <!---LeetCode Topics End-->
