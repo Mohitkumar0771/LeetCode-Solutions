@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0700-search-in-a-binary-search-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [1361-validate-binary-tree-nodes](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0501-find-mode-in-binary-search-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0655-print-binary-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0655-print-binary-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [1361-validate-binary-tree-nodes](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -104,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0700-search-in-a-binary-search-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [1361-validate-binary-tree-nodes](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0310-minimum-height-trees](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0310-minimum-height-trees/) | Medium |
 | [0655-print-binary-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0655-print-binary-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [1361-validate-binary-tree-nodes](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,8 +153,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0310-minimum-height-trees](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0310-minimum-height-trees/) | Medium |
+| [1361-validate-binary-tree-nodes](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0310-minimum-height-trees](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0310-minimum-height-trees/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1361-validate-binary-tree-nodes](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 <!---LeetCode Topics End-->
