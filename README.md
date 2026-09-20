@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1154-day-of-the-year](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/1154-day-of-the-year/) | Easy |
+| [1185-day-of-the-week](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/1185-day-of-the-week/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
