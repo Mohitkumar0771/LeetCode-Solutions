@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1361-validate-binary-tree-nodes](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1367-linked-list-in-binary-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/1367-linked-list-in-binary-tree/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1361-validate-binary-tree-nodes](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1367-linked-list-in-binary-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/1367-linked-list-in-binary-tree/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,12 +113,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1361-validate-binary-tree-nodes](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/1361-validate-binary-tree-nodes/) | Medium |
 | [1367-linked-list-in-binary-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/1367-linked-list-in-binary-tree/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0148-sort-list](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0701-insert-into-a-binary-search-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0704-binary-search](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
+| [1382-balance-a-binary-search-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,4 +171,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1361-validate-binary-tree-nodes](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/1361-validate-binary-tree-nodes/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
