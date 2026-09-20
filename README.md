@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0148-sort-list](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0328-odd-even-linked-list/) | Medium |
+| [1367-linked-list-in-binary-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/1367-linked-list-in-binary-tree/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0701-insert-into-a-binary-search-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1361-validate-binary-tree-nodes](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/1361-validate-binary-tree-nodes/) | Medium |
+| [1367-linked-list-in-binary-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/1367-linked-list-in-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -92,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0655-print-binary-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0655-print-binary-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1361-validate-binary-tree-nodes](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/1361-validate-binary-tree-nodes/) | Medium |
+| [1367-linked-list-in-binary-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/1367-linked-list-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0701-insert-into-a-binary-search-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0783-minimum-distance-between-bst-nodes/) | Easy |
 | [1361-validate-binary-tree-nodes](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/1361-validate-binary-tree-nodes/) | Medium |
+| [1367-linked-list-in-binary-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/1367-linked-list-in-binary-tree/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
