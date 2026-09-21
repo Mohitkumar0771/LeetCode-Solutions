@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0704-binary-search](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
+| [0823-binary-trees-with-factors](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0823-binary-trees-with-factors/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,10 +31,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0147-insertion-sort-list](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
+| [0823-binary-trees-with-factors](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0823-binary-trees-with-factors/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0823-binary-trees-with-factors](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0823-binary-trees-with-factors/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,4 +197,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0823-binary-trees-with-factors](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0823-binary-trees-with-factors/) | Medium |
 <!---LeetCode Topics End-->
