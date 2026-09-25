@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0189-rotate-array](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0143-reorder-list](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0189-rotate-array](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
@@ -29,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0147-insertion-sort-list](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
 | [0823-binary-trees-with-factors](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0823-binary-trees-with-factors/) | Medium |
