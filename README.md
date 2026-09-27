@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0344-reverse-string/) | Easy |
 | [0394-decode-string](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0394-decode-string/) | Medium |
+| [0796-rotate-string](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
 | [1154-day-of-the-year](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/1154-day-of-the-year/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -213,4 +214,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0823-binary-trees-with-factors](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0823-binary-trees-with-factors/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
