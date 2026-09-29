@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0143-reorder-list](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0143-reorder-list/) | Medium |
 | [0147-insertion-sort-list](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0147-insertion-sort-list/) | Medium |
 | [0148-sort-list](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0148-sort-list/) | Medium |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0143-reorder-list](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0394-decode-string/) | Medium |
