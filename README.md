@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0189-rotate-array](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0704-binary-search](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0823-binary-trees-with-factors](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0823-binary-trees-with-factors/) | Medium |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0300-longest-increasing-subsequence](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -245,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0823-binary-trees-with-factors](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0823-binary-trees-with-factors/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -267,4 +270,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0059-spiral-matrix-ii/) | Medium |
+## Longest Increasing Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Mohitkumar0771/LeetCode-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
